@@ -1,0 +1,4 @@
+# Runtime/build requirements
+# Termux packages:
+# openjdk-17
+# curl (optional)
